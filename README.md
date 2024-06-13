@@ -16,13 +16,16 @@ pip3 install pickle
 ## Installation
 
 In terminal 1. run the following command
+
 `python3 server.py`
 
 In terminal 2. run the following command
+
 `python3 client.py`
 
-This will demand an access to your webcam. Allow access and see you beautiful face on the screen.
+This will demand an access to your webcam. Allow access and see your beautiful face on the screen. 
 
-References
+
+## References
 
 - https://medium.com/@anshulsjr6/building-a-basic-video-streaming-application-in-python-with-opencv-cfb6995e2479
